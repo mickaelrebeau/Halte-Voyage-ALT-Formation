@@ -1,0 +1,36 @@
+@import url(https://fr.allfont.net/allfont.css?fonts=crete-round);
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+
+    font-family: 'Crete Round', arial;
+}
+
+#gray {
+    background-color: #efefef;
+}
+
+#dark-gray {
+    background-color: #444444;
+}
+
+span {
+    color: #ff7a00;
+}
+
+#orange {
+    border: none;
+    background-color: #ff7a00;
+}
+
+#blue {
+    border: none;
+    color: white;
+}
+
+.dark-gray {
+    color: #444444;
+}
